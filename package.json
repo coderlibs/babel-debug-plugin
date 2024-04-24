@@ -1,13 +1,13 @@
 {
-  "name": "babel-debbug-plugin",
-  "version": "1.0.0",
+  "name": "babel-debug-plugin",
+  "version": "1.1.0",
   "description": "babel插件,用于开发环境下调试所用",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "debbug",
+    "debug",
     "plugin",
     "babel"
   ],
@@ -16,12 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderlibs/babel-debbug-plugin.git"
+    "url": "git+https://github.com/coderlibs/babel-debug-plugin.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coderlibs/babel-debbug-plugin/issues"
+    "url": "https://github.com/coderlibs/babel-debug-plugin/issues"
   },
-  "homepage": "https://github.com/coderlibs/babel-debbug-plugin#readme"
+  "homepage": "https://github.com/coderlibs/babel-debug-plugin#readme"
 }
